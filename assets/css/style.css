@@ -23,7 +23,7 @@ html, body{
 .valign-wrapper{
 	
 height:100%;
-margin:7px;
+margin:-7px;
 }
 
 .para{
@@ -49,4 +49,7 @@ margin:7px;
 }
 #contacto h5{
 	display: inline-block;
+}
+.blue-grey.darken-4 {
+    margin: -7px;
 }
