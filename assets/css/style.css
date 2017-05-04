@@ -53,3 +53,7 @@ margin:-7px;
 .blue-grey.darken-4 {
     margin: -7px;
 }
+menu, nav, section, summary {
+    display: block;
+    margin: -7px;
+}
